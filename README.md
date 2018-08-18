@@ -3,9 +3,8 @@ Rainmeter Plugin for showing song info from Media Players<br/>
 Currently supporting for Winamp & Spotify
 
 # Installation
-1. Install [Python](https://www.python.org) if haven't already, and properly setup the environment PATH
-2. Install appJar: ```pip install appJar``` in the command prompt or bash, whatever you like
-3. Run it! ```python PyCalc.2.0.py```
+1. Install the current Rainmeter ```4.2``` or ```4.3 Beta```
+2. Download this and extract it to your Rainmeter ```Skins``` folder (Default: D:\Libraries\Documents\Rainmeter\Skins
 
 # Screenshot(s)
 ![iometta](https://github.com/aircatcher/iometta/blob/master/screenshots/main.png)
