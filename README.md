@@ -1,5 +1,6 @@
 # iometta
 Rainmeter Plugin for showing song info from Media Players
+Currently supporting for Winamp & Spotify
 
 # Installation
 1. Install [Python](https://www.python.org) if haven't already, and properly setup the environment PATH
