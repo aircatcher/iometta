@@ -1,5 +1,5 @@
 # iometta
-Rainmeter Plugin for showing song info from Media Players
+Rainmeter Plugin for showing song info from Media Players<br/>
 Currently supporting for Winamp & Spotify
 
 # Installation
