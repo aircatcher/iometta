@@ -9,6 +9,6 @@ Currently supporting for Winamp & Spotify
 # Notes
 * For Foobar2000, please install [foo_cad](http://www.dropwizard.io/1.0.2/docs/) first, otherwise it won't work
 
-
 # Screenshot(s)
 ![iometta](https://github.com/aircatcher/iometta/blob/master/screenshots/main.png)
+![Settings](https://github.com/aircatcher/iometta/blob/master/screenshots/settings.png)
