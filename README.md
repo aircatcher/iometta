@@ -1,6 +1,6 @@
 # iometta
 Rainmeter Plugin for showing song info from Media Players<br/>
-Currently supporting for Winamp & Spotify
+Currently supporting for Foobar2000, Winamp, & Spotify
 
 # Installation
 1. Install the current Rainmeter ```4.2``` or ```4.3 Beta```
