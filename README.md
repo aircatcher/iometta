@@ -15,7 +15,8 @@ Rainmeter Plugin for showing song info from Media Players.
 2. Download this and extract it to your Rainmeter ```Skins``` folder
 
 # Notes
-For Foobar2000, please install [foo_cad](http://www.dropwizard.io/1.0.2/docs/) first, otherwise it won't work
+* <i>Skin will hide when the player is not running, this will be a toggle on the future releases.</i>
+* For Foobar2000, please install [foo_cad](http://www.dropwizard.io/1.0.2/docs/) first, otherwise it won't work
 
 # Screenshot(s)
 ![iometta](https://github.com/aircatcher/iometta/blob/master/screenshots/main.png)
