@@ -1,6 +1,16 @@
 # iometta
 Rainmeter Plugin for showing song info from Media Players.
 
+### Warning
+With so many changes on how the ```NowPlaying``` plugin works in Rainmeter, some integrations are not working as of right now, which is:
+* Album label & cover
+* Progress Bar
+* Player Volume control & System Volume control
+
+(probably some needs a big changes, because these was working perfectly fine before)
+
+P.S: This changes was happened somewhere around 2018
+
 <b>Full Player Support:</b>
 * AIMP
 * Foobar2000[1]
