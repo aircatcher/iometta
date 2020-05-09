@@ -1,11 +1,8 @@
 # iometta
 Rainmeter Plugin for showing song info from Media Players.
 
-### Warning
-With so many changes on how the ```NowPlaying``` plugin works in Rainmeter, some integrations are not working as of right now, which is:
-* Album label & cover
-* Progress Bar
-* Player Volume control & System Volume control
+<a href="https://github.com/fralyx/iometta/releases/latest"><img src="https://img.shields.io/github/release/fralyx/iometta/all.svg?colorB=97CA00?label=version"></a>
+[![Release date](https://img.shields.io/github/release-date/fralyx/iometta)](https://github.com/fralyx/iometta/releases/latest)
 
 (probably some needs a big changes, because these was working perfectly fine before)
 
@@ -22,7 +19,7 @@ P.S: This changes was happened somewhere around 2018
 * Windows Media Player
 
 <b>Partial Player Support:</b>
-* Spotify
+* Spotify [2]
 
 # Installation
 1. Install the current Rainmeter ```4.3.1``` or ```4.4 Beta```
@@ -30,6 +27,10 @@ P.S: This changes was happened somewhere around 2018
 
 # Notes
 * [1] For Foobar2000, please install [foo_cad](http://www.dropwizard.io/1.0.2/docs/) first, otherwise it won't work. This plugin is not stable on itself, so bear in mind that it can frequently reach the "not responding" state.
+* [2] With so many changes on how the ```NowPlaying``` plugin works in Rainmeter, some integrations are not working as of right now, which is:
+  * Album label & cover
+  * Progress Bar
+  * Player Volume control & System Volume control
 
 # Screenshot(s)
 ![iometta](https://github.com/aircatcher/iometta/blob/master/screenshots/main.png)
