@@ -27,10 +27,10 @@ P.S: This changes was happened somewhere around 2018
 
 # Notes
 * [1] For Foobar2000, please install [foo_cad](http://www.dropwizard.io/1.0.2/docs/) first, otherwise it won't work. This plugin is not stable on itself, so bear in mind that it can frequently reach the "not responding" state.
-* [2] With so many changes on how the ```NowPlaying``` plugin works in Rainmeter, some integrations are not working as of right now, which is:
+* [2] Spotify has removed ```SpotifyWebHelper.exe``` for good, in return, these functions won't work properly, following the current Rainmeter's ```NowPlaying``` implementation:
   * Album label & cover
   * Progress Bar
-  * Player Volume control & System Volume control
+  * Player Volume control
 
 # Screenshot(s)
 ![iometta](https://github.com/aircatcher/iometta/blob/master/screenshots/main.png)
