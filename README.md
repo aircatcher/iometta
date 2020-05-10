@@ -4,10 +4,6 @@ Rainmeter Plugin for showing song info from Media Players.
 <a href="https://github.com/fralyx/iometta/releases/latest"><img src="https://img.shields.io/github/release/fralyx/iometta/all.svg?colorB=97CA00?label=version"></a>
 [![Release date](https://img.shields.io/github/release-date/fralyx/iometta)](https://github.com/fralyx/iometta/releases/latest)
 
-(probably some needs a big changes, because these was working perfectly fine before)
-
-P.S: This changes was happened somewhere around 2018
-
 <b>Full Player Support:</b>
 * AIMP
 * Foobar2000[1]
