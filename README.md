@@ -22,7 +22,7 @@ Rainmeter Plugin for showing song info from Media Players.
 2. Download this and extract it to your Rainmeter ```Skins``` folder
 
 # Notes
-* [1] For Foobar2000, please install [foo_cad](http://www.dropwizard.io/1.0.2/docs/) first, otherwise it won't work. This plugin is not stable on itself, so bear in mind that it can frequently reach the "not responding" state.
+* [1] For Foobar2000, please install [foo_cad](https://poiru.net/foo-cad/) first, otherwise it won't work. This plugin is not stable on itself, so bear in mind that it can frequently crash.
 * [2] Spotify has removed ```SpotifyWebHelper.exe``` for good, in return, these functions won't work properly, following the current Rainmeter's ```NowPlaying``` implementation:
   * Album label & cover
   * Progress Bar
