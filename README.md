@@ -19,7 +19,7 @@ Rainmeter Plugin for showing song info from Media Players.
 
 # Installation
 1. Install the current Rainmeter ```4.3.1``` or ```4.4 Beta```
-2. Download this and extract it to your Rainmeter ```Skins``` folder
+2. Download the latest ```.rmskin``` file on the [release page](https://github.com/fralyx/iometta/releases/latest) and install 
 
 # Notes
 * [1] For Foobar2000, please install [foo_cad](https://poiru.net/foo-cad/) first, otherwise it won't work. This plugin is not stable on itself, so bear in mind that it can frequently crash.
