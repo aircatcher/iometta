@@ -23,10 +23,14 @@ Rainmeter Plugin for showing song info from Media Players.
 
 # Notes
 * [1] For Foobar2000, please install [foo_cad](https://poiru.net/foo-cad/) first, otherwise it won't work. This plugin is not stable on itself, so bear in mind that it can frequently crash.
-* [2] Spotify has removed ```SpotifyWebHelper.exe``` for good, in return, these functions won't work properly, following the current Rainmeter's ```NowPlaying``` implementation:
+* [2] Spotify has removed ```SpotifyWebHelper.exe``` for good, in return, these functions won't work properly, the development of ```NowPlaying``` seems to be abandoned. Here are the list of things that won't work:
   * Album label & cover
   * Progress Bar
   * Player Volume control
+  * Play / Pause state
+  
+  Here I found a guide to aleviate the Web Helper made by [khanhas](https://github.com/khanhas):
+  https://github.com/khanhas/spicetify-cli/wiki/Guide-for-Rainmeter-user
 
 # Screenshot(s)
 ![iometta](https://github.com/aircatcher/iometta/blob/master/screenshots/main.png)
