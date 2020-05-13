@@ -29,7 +29,7 @@ Rainmeter Plugin for showing song info from Media Players.
   * Player Volume control
   * Play / Pause state
   
-  Here I found a guide to aleviate the Web Helper made by [khanhas](https://github.com/khanhas):
+  Here I found a guide for an alternative Web Helper made by [khanhas](https://github.com/khanhas):
   https://github.com/khanhas/spicetify-cli/wiki/Guide-for-Rainmeter-user
 
 # Screenshot(s)
